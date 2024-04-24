@@ -3,8 +3,8 @@
   "type": "containerized",
   "blockId": "uablDST7jOD8Y3YyvSMKD",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/contPack.git",
+    "ssh": "git@github.com:devthalal/contPack.git",
     "branch": "block_contPack"
   },
   "parentBlockIDs": [],
