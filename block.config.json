@@ -1,0 +1,17 @@
+{
+  "name": "contPack",
+  "type": "containerized",
+  "blockId": "uablDST7jOD8Y3YyvSMKD",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_contPack"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "python"
+}
